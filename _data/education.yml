@@ -12,8 +12,8 @@
 - layout: left
   name: KonKuk University
   dates: MAR 2015 - FEB 2020
-  qualification: Qualifications
+  qualification: BE Industrial Engineering, minor in Economics
   quote: >
     Seoul, Korea                                                  
-  description: | # this will include new lines to allow paragraphs
-    BE Industrial Engineering, minor in Economics
+  #description: | # this will include new lines to allow paragraphs
+  

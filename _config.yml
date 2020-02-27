@@ -49,7 +49,7 @@ about_content: | # this will include new lines to allow paragraphs
   I'd like to obtain the position of <mark>data analyst</mark> allowing me to use my knowledge and project experience.
 #<img data-action="zoom" src='{{ "/images/python.png" | relative_url }}' alt='absolute'>
 #![python]({{ "/images/python.png" | absolute_url }})
-![Python]({{site.baseurl}}/images/python.png)
+#![Python]({{site.baseurl}}/images/python.png)
 
 
 # Projects Section

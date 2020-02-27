@@ -47,7 +47,8 @@ about_profile_image: images/profile4.jpg
 #Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 about_content: | # this will include new lines to allow paragraphs
   I'd like to obtain the position of <mark>data analyst</mark> allowing me to use my knowledge and project experience.
-<img data-action="zoom" src='{{ "/images/python.png" | relative_url }}' alt='absolute'>
+#<img data-action="zoom" src='{{ "/images/python.png" | relative_url }}' alt='absolute'>
+![python]({{ "/images/python.png" | absolute_url }})
 
 
 # Projects Section

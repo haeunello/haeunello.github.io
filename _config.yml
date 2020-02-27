@@ -47,11 +47,11 @@ about_profile_image: images/profile4.jpg
 #Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 about_content: | # this will include new lines to allow paragraphs
   I'd like to obtain the position of <mark>data analyst</mark> allowing me to use my knowledge and project experience.
-<div>
+
 <img width='270' src= 'https://user-images.githubusercontent.com/58417351/75465889-a1255400-59cc-11ea-8e08-5cfc526a1dd9.png'>
 <img width='270' src= 'https://user-images.githubusercontent.com/58417351/75465953-bac69b80-59cc-11ea-9398-773dd49d075e.png'>
 <img width='270' src = 'https://user-images.githubusercontent.com/58417351/75465978-c87c2100-59cc-11ea-9fad-e3ac94551bea.jpg'>
-</div>
+
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)

@@ -6,7 +6,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 name: Haeun Kim
 title: Data Analyst
 email: haeun1324@naver.com
-phone: +82-10-0000-0000
+phone: +82-10-3030-5783
 website: #Your website (eg. https://google.com)(optional)
 
 darkmode: false
@@ -31,9 +31,9 @@ additional_links:
 - title: Link name
   icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
   url: Link url (eg. https://google.com)
-# - title: another link
-#   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
+ - title: another link
+   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+   url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -48,7 +48,8 @@ about_profile_image: images/profile4.jpg
 about_content: | # this will include new lines to allow paragraphs
   I'd like to obtain the position of <mark>data analyst</mark> allowing me to use my knowledge and project experience.
 #<img data-action="zoom" src='{{ "/images/python.png" | relative_url }}' alt='absolute'>
-![python]({{ "/images/python.png" | absolute_url }})
+#![python]({{ "/images/python.png" | absolute_url }})
+![Python]({{site.baseurl}}/images/python.png)
 
 
 # Projects Section

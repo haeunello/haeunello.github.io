@@ -6,9 +6,9 @@
   quote: >
     Short overview of the project (optional)
   description: | > # this will include new lines to allow paragraphs
-          <center>- Classifier customers using CatBoost model and develop strategies to maintain market share</center>
-          <center>- Pre-preocessed the master data and contract data of customers using statistic methods</center>
-          <center>- Presented the analysis process in front of the executives and won the first prize</center>
+          <center>Classifier customers using CatBoost model and develop strategies to maintain market share</center>
+          <center>Pre-preocessed the master data and contract data of customers using statistic methods</center>
+          <center>Presented the analysis process in front of the executives and won the first prize</center>
 # Project template
 - layout: top-middle
   name: Project name

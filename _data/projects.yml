@@ -1,14 +1,14 @@
 # Project template
-- layout: top-left
+- layout: top-middle
   name: Rental Business Data Analytics Project
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    - Classifier customers using CatBoost model and develop strategies to maintain market share
-    - Pre-preocessed the master data and contract data of customers using statistic methods
-    - Presented the analysis process in front of the executives and won the first prize 
+          - Classifier customers using CatBoost model and develop strategies to maintain market share
+          - Pre-preocessed the master data and contract data of customers using statistic methods
+          - Presented the analysis process in front of the executives and won the first prize 
 # Project template
 - layout: top-middle
   name: Project name

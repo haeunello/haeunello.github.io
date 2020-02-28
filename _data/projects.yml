@@ -4,11 +4,11 @@
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    Short overview of the project (optional)
+    POSCO YOUTH AI · BIG DATA ACADEMY (포스코 청년 AI · Big Data 아카데미) Team Project
   description: | > # this will include new lines to allow paragraphs
-          <center>Classifier customers using CatBoost model and develop strategies to maintain market share</center>
-          <center>Pre-preocessed the master data and contract data of customers using statistic methods</center>
-          <center>Presented the analysis process in front of the executives and won the first prize</center>
+    - Classifier customers using CatBoost model and develop strategies to maintain market share
+    - Pre-preocessed the master data and contract data of customers using statistic methods
+    - Presented the analysis process in front of the executives and won the first prize
 # Project template
 - layout: top-middle
   name: Project name

@@ -5,7 +5,7 @@
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     POSCO YOUTH AI · BIG DATA ACADEMY (포스코 청년 AI · Big Data 아카데미) Team Project
-  description: | > # this will include new lines to allow paragraphs
+  description: | # this will include new lines to allow paragraphs
     - Classifier customers using CatBoost model and develop strategies to maintain market share
     - Pre-preocessed the master data and contract data of customers using statistic methods
     - Presented the analysis process in front of the executives and won the first prize
